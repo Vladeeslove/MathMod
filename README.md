@@ -1,4 +1,4 @@
-# MathMod
-Educational projects on MathematicalModeling
+# MyEducationalProjects
+Educational projects on MathematicalModeling, Protection of computer information and other
 
-Here i commit one's educational projects on MathematicalModeling, some even good:Dd 
+Here i commit one's educational projects, some even good:Dd 
